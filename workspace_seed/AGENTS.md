@@ -8,3 +8,7 @@
 ## Preferences
 
 ## Notes
+
+### Local Project Manager
+- Local Git repositories are stored at `workspace/projects/` relative to the repository root.
+- The path relative to the agent workspace is `projects/`.
